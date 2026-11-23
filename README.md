@@ -1,12 +1,15 @@
 # Bear's Den · invasive treatment brief
 
+Live site: https://ryanpocasset.github.io/BearsDen_InvasiveTreatment_2026/
+Repository: https://github.com/RyanPocasset/BearsDen_InvasiveTreatment_2026
+
 Static web map of the two invasive treatment areas at Bear's Den, Pocasset Cedar Swamp, Tiverton, Rhode Island, from the PPLT field survey of 21 November 2026. Prepared for Whipple Tree by PPLT AGIKS, Pocasset Pokanoket Land Trust.
 
 ## Publish with GitHub Pages
 
-1. Create a repository and upload everything in this folder to the root of the `main` branch, keeping the folders (`data/`, `img/`, `lib/`, `photos/`).
+1. Upload everything in this folder to the root of the `main` branch, keeping the folders (`data/`, `img/`, `lib/`, `photos/`). Files with the same name replace the old ones.
 2. In the repository: **Settings → Pages → Build and deployment**, set Source to **Deploy from a branch**, Branch **main**, folder **/ (root)**, and save.
-3. After a minute or two the site is live at `https://<account>.github.io/<repository>/`.
+3. After a minute or two the site updates at https://ryanpocasset.github.io/BearsDen_InvasiveTreatment_2026/ (the path is case-sensitive).
 
 On a free GitHub account, Pages needs a public repository, and the published site can be opened by anyone with the link. The page carries a `noindex` tag so search engines leave it out; delete that `<meta name="robots">` line in `index.html` if you want it findable.
 
